@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/737dd6e5-a221-466a-b423-309e8744da4f
 
 "The software automatically uses the Kelly Criterion to determine the optimal bet size for each option.
 
-The Kelly Criterion is a mathematical formula designed to maximize your bankroll's growth by determining the ideal amount to bet on each wager. It helps you avoid betting too much on unfavorable odds or too little on value bets. By using this criterion, the software helps you manage your bankroll more efficiently, ensuring you bet proportionally based on the perceived edge or value of each betting option. This approach reduces the risk of losing your bankroll while allowing for optimal growth over time."
+The Kelly Criterion is a mathematical formula designed to maximize your bankroll's growth by determining the ideal amount to bet on each wager. It helps you avoid betting too much on unfavorable odds or too little on value bets. By using this criterion, the software helps you manage your bankroll more efficiently, ensuring you bet proportionally based on the perceived edge or value of each betting option. This approach reduces the risk of losing your bankroll while allowing for optimal growth over time."**
 ---
 
 ## Functions
