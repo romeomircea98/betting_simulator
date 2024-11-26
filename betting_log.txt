@@ -1,0 +1,202 @@
+2024-11-26 20:53:14,282 - INFO - Simulation started.
+2024-11-26 20:53:14,283 - INFO - Win! Gained: $49.8. New bankroll: $1049.8
+2024-11-26 20:53:14,283 - INFO - Bet #1: Chose Variant B with odds 2.66. Bet size: $30.0. Probability: 0.416. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $1049.8
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $26.25. New bankroll: $1023.55
+2024-11-26 20:53:14,283 - INFO - Bet #2: Chose Variant C with odds 5.82. Bet size: $26.25. Probability: 0.212. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $1023.55
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $25.59. New bankroll: $997.96
+2024-11-26 20:53:14,283 - INFO - Bet #3: Chose Variant C with odds 5.26. Bet size: $25.59. Probability: 0.23. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $997.96
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $34.93. New bankroll: $963.03
+2024-11-26 20:53:14,283 - INFO - Bet #4: Chose Variant B with odds 2.57. Bet size: $34.93. Probability: 0.429. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $963.03
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $28.89. New bankroll: $934.14
+2024-11-26 20:53:14,283 - INFO - Bet #5: Chose Variant B with odds 2.63. Bet size: $28.89. Probability: 0.42. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $934.14
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $28.02. New bankroll: $906.12
+2024-11-26 20:53:14,283 - INFO - Bet #6: Chose Variant B with odds 2.7. Bet size: $28.02. Probability: 0.41. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $906.12
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $36.24. New bankroll: $869.88
+2024-11-26 20:53:14,283 - INFO - Bet #7: Chose Variant A with odds 2.07. Bet size: $36.24. Probability: 0.523. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $869.88
+2024-11-26 20:53:14,283 - INFO - Win! Gained: $36.89. New bankroll: $906.77
+2024-11-26 20:53:14,283 - INFO - Bet #8: Chose Variant A with odds 2.06. Bet size: $34.8. Probability: 0.525. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $906.77
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $36.27. New bankroll: $870.5
+2024-11-26 20:53:14,283 - INFO - Bet #9: Chose Variant A with odds 2.03. Bet size: $36.27. Probability: 0.533. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $870.5
+2024-11-26 20:53:14,283 - INFO - Lose. Lost: $30.47. New bankroll: $840.03
+2024-11-26 20:53:14,283 - INFO - Bet #10: Chose Variant B with odds 2.62. Bet size: $30.47. Probability: 0.422. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $840.03
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $29.4. New bankroll: $810.63
+2024-11-26 20:53:14,284 - INFO - Bet #11: Chose Variant B with odds 2.42. Bet size: $29.4. Probability: 0.453. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $810.63
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $40.53. New bankroll: $770.1
+2024-11-26 20:53:14,284 - INFO - Bet #12: Chose Variant A with odds 1.67. Bet size: $40.53. Probability: 0.639. Kelly: 0.1. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $770.1
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $30.8. New bankroll: $739.3
+2024-11-26 20:53:14,284 - INFO - Bet #13: Chose Variant A with odds 1.9. Bet size: $30.8. Probability: 0.566. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $739.3
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $25.88. New bankroll: $713.42
+2024-11-26 20:53:14,284 - INFO - Bet #14: Chose Variant B with odds 2.56. Bet size: $25.88. Probability: 0.431. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $713.42
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $21.4. New bankroll: $692.02
+2024-11-26 20:53:14,284 - INFO - Bet #15: Chose Variant B with odds 3.26. Bet size: $21.4. Probability: 0.347. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $692.02
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $24.22. New bankroll: $667.8
+2024-11-26 20:53:14,284 - INFO - Bet #16: Chose Variant A with odds 2.17. Bet size: $24.22. Probability: 0.501. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $667.8
+2024-11-26 20:53:14,284 - INFO - Win! Gained: $35.65. New bankroll: $703.45
+2024-11-26 20:53:14,284 - INFO - Bet #17: Chose Variant B with odds 2.78. Bet size: $20.03. Probability: 0.4. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $703.45
+2024-11-26 20:53:14,284 - INFO - Win! Gained: $29.83. New bankroll: $733.28
+2024-11-26 20:53:14,284 - INFO - Bet #18: Chose Variant A with odds 2.06. Bet size: $28.14. Probability: 0.525. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $733.28
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $33.0. New bankroll: $700.28
+2024-11-26 20:53:14,284 - INFO - Bet #19: Chose Variant A with odds 1.81. Bet size: $33.0. Probability: 0.592. Kelly: 0.09. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $700.28
+2024-11-26 20:53:14,284 - INFO - Win! Gained: $117.84. New bankroll: $818.12
+2024-11-26 20:53:14,284 - INFO - Bet #20: Chose Variant C with odds 7.73. Bet size: $17.51. Probability: 0.169. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $818.12
+2024-11-26 20:53:14,284 - INFO - Win! Gained: $84.05. New bankroll: $902.17
+2024-11-26 20:53:14,284 - INFO - Bet #21: Chose Variant C with odds 5.11. Bet size: $20.45. Probability: 0.236. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $902.17
+2024-11-26 20:53:14,284 - INFO - Lose. Lost: $18.04. New bankroll: $884.13
+2024-11-26 20:53:14,285 - INFO - Bet #22: Chose Variant C with odds 10.58. Bet size: $18.04. Probability: 0.135. Kelly: 0.04. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $884.13
+2024-11-26 20:53:14,285 - INFO - Win! Gained: $46.1. New bankroll: $930.23
+2024-11-26 20:53:14,285 - INFO - Bet #23: Chose Variant B with odds 2.49. Bet size: $30.94. Probability: 0.442. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $930.23
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $23.26. New bankroll: $906.97
+2024-11-26 20:53:14,285 - INFO - Bet #24: Chose Variant C with odds 5.08. Bet size: $23.26. Probability: 0.237. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $906.97
+2024-11-26 20:53:14,285 - INFO - Win! Gained: $35.55. New bankroll: $942.53
+2024-11-26 20:53:14,285 - INFO - Bet #25: Chose Variant A with odds 1.98. Bet size: $36.28. Probability: 0.545. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $942.53
+2024-11-26 20:53:14,285 - INFO - Win! Gained: $36.95. New bankroll: $979.47
+2024-11-26 20:53:14,285 - INFO - Bet #26: Chose Variant A with odds 1.98. Bet size: $37.7. Probability: 0.545. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $979.47
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $39.18. New bankroll: $940.29
+2024-11-26 20:53:14,285 - INFO - Bet #27: Chose Variant A with odds 1.95. Bet size: $39.18. Probability: 0.553. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $940.29
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $37.61. New bankroll: $902.68
+2024-11-26 20:53:14,285 - INFO - Bet #28: Chose Variant A with odds 2.08. Bet size: $37.61. Probability: 0.521. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $902.68
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $31.59. New bankroll: $871.09
+2024-11-26 20:53:14,285 - INFO - Bet #29: Chose Variant A with odds 2.3. Bet size: $31.59. Probability: 0.475. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $871.09
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $21.78. New bankroll: $849.31
+2024-11-26 20:53:14,285 - INFO - Bet #30: Chose Variant C with odds 3.82. Bet size: $21.78. Probability: 0.302. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $849.31
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $21.23. New bankroll: $828.08
+2024-11-26 20:53:14,285 - INFO - Bet #31: Chose Variant C with odds 4.17. Bet size: $21.23. Probability: 0.28. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $828.08
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $20.7. New bankroll: $807.38
+2024-11-26 20:53:14,285 - INFO - Bet #32: Chose Variant C with odds 9.28. Bet size: $20.7. Probability: 0.148. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $807.38
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $20.18. New bankroll: $787.2
+2024-11-26 20:53:14,285 - INFO - Bet #33: Chose Variant C with odds 6.43. Bet size: $20.18. Probability: 0.196. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $787.2
+2024-11-26 20:53:14,285 - INFO - Lose. Lost: $19.68. New bankroll: $767.52
+2024-11-26 20:53:14,286 - INFO - Bet #34: Chose Variant C with odds 7.38. Bet size: $19.68. Probability: 0.176. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $767.52
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $57.76. New bankroll: $825.28
+2024-11-26 20:53:14,286 - INFO - Bet #35: Chose Variant C with odds 4.01. Bet size: $19.19. Probability: 0.289. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $825.28
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $31.36. New bankroll: $856.64
+2024-11-26 20:53:14,286 - INFO - Bet #36: Chose Variant A with odds 1.95. Bet size: $33.01. Probability: 0.553. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $856.64
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $32.38. New bankroll: $889.03
+2024-11-26 20:53:14,286 - INFO - Bet #37: Chose Variant A with odds 1.84. Bet size: $38.55. Probability: 0.583. Kelly: 0.09. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $889.03
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $38.76. New bankroll: $927.79
+2024-11-26 20:53:14,286 - INFO - Bet #38: Chose Variant A with odds 2.09. Bet size: $35.56. Probability: 0.518. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $927.79
+2024-11-26 20:53:14,286 - INFO - Lose. Lost: $46.39. New bankroll: $881.4
+2024-11-26 20:53:14,286 - INFO - Bet #39: Chose Variant A with odds 1.69. Bet size: $46.39. Probability: 0.632. Kelly: 0.1. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $881.4
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $36.32. New bankroll: $917.71
+2024-11-26 20:53:14,286 - INFO - Bet #40: Chose Variant A with odds 2.03. Bet size: $35.26. Probability: 0.533. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $917.71
+2024-11-26 20:53:14,286 - INFO - Lose. Lost: $27.53. New bankroll: $890.18
+2024-11-26 20:53:14,286 - INFO - Bet #41: Chose Variant B with odds 3.08. Bet size: $27.53. Probability: 0.365. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $890.18
+2024-11-26 20:53:14,286 - INFO - Lose. Lost: $22.25. New bankroll: $867.93
+2024-11-26 20:53:14,286 - INFO - Bet #42: Chose Variant C with odds 4.43. Bet size: $22.25. Probability: 0.266. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $867.93
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $35.24. New bankroll: $903.18
+2024-11-26 20:53:14,286 - INFO - Bet #43: Chose Variant A with odds 2.16. Bet size: $30.38. Probability: 0.503. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $903.18
+2024-11-26 20:53:14,286 - INFO - Win! Gained: $36.49. New bankroll: $939.67
+2024-11-26 20:53:14,286 - INFO - Bet #44: Chose Variant A with odds 2.01. Bet size: $36.13. Probability: 0.538. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $939.67
+2024-11-26 20:53:14,286 - INFO - Lose. Lost: $32.89. New bankroll: $906.78
+2024-11-26 20:53:14,286 - INFO - Bet #45: Chose Variant B with odds 2.15. Bet size: $32.89. Probability: 0.505. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $906.78
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $31.74. New bankroll: $875.04
+2024-11-26 20:53:14,287 - INFO - Bet #46: Chose Variant B with odds 2.51. Bet size: $31.74. Probability: 0.438. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $875.04
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $21.88. New bankroll: $853.16
+2024-11-26 20:53:14,287 - INFO - Bet #47: Chose Variant C with odds 4.61. Bet size: $21.88. Probability: 0.257. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $853.16
+2024-11-26 20:53:14,287 - INFO - Win! Gained: $31.06. New bankroll: $884.21
+2024-11-26 20:53:14,287 - INFO - Bet #48: Chose Variant A with odds 1.91. Bet size: $34.13. Probability: 0.564. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $884.21
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $26.53. New bankroll: $857.68
+2024-11-26 20:53:14,287 - INFO - Bet #49: Chose Variant B with odds 2.61. Bet size: $26.53. Probability: 0.423. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $857.68
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $21.44. New bankroll: $836.24
+2024-11-26 20:53:14,287 - INFO - Bet #50: Chose Variant C with odds 7.72. Bet size: $21.44. Probability: 0.17. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $836.24
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $20.91. New bankroll: $815.33
+2024-11-26 20:53:14,287 - INFO - Bet #51: Chose Variant C with odds 4.42. Bet size: $20.91. Probability: 0.266. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $815.33
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $20.38. New bankroll: $794.95
+2024-11-26 20:53:14,287 - INFO - Bet #52: Chose Variant C with odds 4.73. Bet size: $20.38. Probability: 0.251. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $794.95
+2024-11-26 20:53:14,287 - INFO - Win! Gained: $25.75. New bankroll: $820.71
+2024-11-26 20:53:14,287 - INFO - Bet #53: Chose Variant A with odds 1.72. Bet size: $35.77. Probability: 0.621. Kelly: 0.09. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $820.71
+2024-11-26 20:53:14,287 - INFO - Win! Gained: $29.88. New bankroll: $850.58
+2024-11-26 20:53:14,287 - INFO - Bet #54: Chose Variant A with odds 1.91. Bet size: $32.83. Probability: 0.564. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $850.58
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $25.52. New bankroll: $825.06
+2024-11-26 20:53:14,287 - INFO - Bet #55: Chose Variant B with odds 2.98. Bet size: $25.52. Probability: 0.376. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $825.06
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $24.75. New bankroll: $800.31
+2024-11-26 20:53:14,287 - INFO - Bet #56: Chose Variant B with odds 2.59. Bet size: $24.75. Probability: 0.426. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $800.31
+2024-11-26 20:53:14,287 - INFO - Lose. Lost: $28.01. New bankroll: $772.3
+2024-11-26 20:53:14,287 - INFO - Bet #57: Chose Variant A with odds 2.14. Bet size: $28.01. Probability: 0.507. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $772.3
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $23.17. New bankroll: $749.13
+2024-11-26 20:53:14,288 - INFO - Bet #58: Chose Variant B with odds 2.84. Bet size: $23.17. Probability: 0.392. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $749.13
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $26.22. New bankroll: $722.91
+2024-11-26 20:53:14,288 - INFO - Bet #59: Chose Variant B with odds 2.45. Bet size: $26.22. Probability: 0.448. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $722.91
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $18.07. New bankroll: $704.84
+2024-11-26 20:53:14,288 - INFO - Bet #60: Chose Variant C with odds 6.1. Bet size: $18.07. Probability: 0.204. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $704.84
+2024-11-26 20:53:14,288 - INFO - Win! Gained: $29.6. New bankroll: $734.44
+2024-11-26 20:53:14,288 - INFO - Bet #61: Chose Variant A with odds 2.05. Bet size: $28.19. Probability: 0.528. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $734.44
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $18.36. New bankroll: $716.08
+2024-11-26 20:53:14,288 - INFO - Bet #62: Chose Variant C with odds 6.21. Bet size: $18.36. Probability: 0.201. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $716.08
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $17.9. New bankroll: $698.18
+2024-11-26 20:53:14,288 - INFO - Bet #63: Chose Variant C with odds 4.67. Bet size: $17.9. Probability: 0.254. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $698.18
+2024-11-26 20:53:14,288 - INFO - Win! Gained: $27.37. New bankroll: $725.56
+2024-11-26 20:53:14,288 - INFO - Bet #64: Chose Variant A with odds 1.98. Bet size: $27.93. Probability: 0.545. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $725.56
+2024-11-26 20:53:14,288 - INFO - Win! Gained: $43.32. New bankroll: $768.88
+2024-11-26 20:53:14,288 - INFO - Bet #65: Chose Variant B with odds 2.99. Bet size: $21.77. Probability: 0.374. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $768.88
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $23.07. New bankroll: $745.81
+2024-11-26 20:53:14,288 - INFO - Bet #66: Chose Variant B with odds 2.99. Bet size: $23.07. Probability: 0.374. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $745.81
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $18.65. New bankroll: $727.16
+2024-11-26 20:53:14,288 - INFO - Bet #67: Chose Variant C with odds 5.46. Bet size: $18.65. Probability: 0.223. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $727.16
+2024-11-26 20:53:14,288 - INFO - Lose. Lost: $18.18. New bankroll: $708.98
+2024-11-26 20:53:14,288 - INFO - Bet #68: Chose Variant C with odds 5.81. Bet size: $18.18. Probability: 0.212. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $708.98
+2024-11-26 20:53:14,289 - INFO - Lose. Lost: $24.81. New bankroll: $684.17
+2024-11-26 20:53:14,289 - INFO - Bet #69: Chose Variant A with odds 2.18. Bet size: $24.81. Probability: 0.499. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $684.17
+2024-11-26 20:53:14,289 - INFO - Lose. Lost: $27.37. New bankroll: $656.8
+2024-11-26 20:53:14,289 - INFO - Bet #70: Chose Variant A with odds 2.01. Bet size: $27.37. Probability: 0.538. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $656.8
+2024-11-26 20:53:14,289 - INFO - Win! Gained: $26.9. New bankroll: $683.7
+2024-11-26 20:53:14,289 - INFO - Bet #71: Chose Variant A with odds 2.17. Bet size: $22.99. Probability: 0.501. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $683.7
+2024-11-26 20:53:14,289 - INFO - Win! Gained: $36.3. New bankroll: $720.0
+2024-11-26 20:53:14,289 - INFO - Bet #72: Chose Variant B with odds 2.77. Bet size: $20.51. Probability: 0.401. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $720.0
+2024-11-26 20:53:14,289 - INFO - Win! Gained: $32.0. New bankroll: $752.0
+2024-11-26 20:53:14,289 - INFO - Bet #73: Chose Variant A with odds 2.27. Bet size: $25.2. Probability: 0.481. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $752.0
+2024-11-26 20:53:14,289 - INFO - Lose. Lost: $22.56. New bankroll: $729.44
+2024-11-26 20:53:14,289 - INFO - Bet #74: Chose Variant B with odds 3.06. Bet size: $22.56. Probability: 0.367. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $729.44
+2024-11-26 20:53:14,289 - INFO - Win! Gained: $30.06. New bankroll: $759.5
+2024-11-26 20:53:14,289 - INFO - Bet #75: Chose Variant A with odds 2.03. Bet size: $29.18. Probability: 0.533. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $759.5
+2024-11-26 20:53:14,289 - INFO - Win! Gained: $44.42. New bankroll: $803.92
+2024-11-26 20:53:14,289 - INFO - Bet #76: Chose Variant B with odds 2.95. Bet size: $22.78. Probability: 0.379. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $803.92
+2024-11-26 20:53:14,289 - INFO - Lose. Lost: $32.16. New bankroll: $771.76
+2024-11-26 20:53:14,289 - INFO - Bet #77: Chose Variant A with odds 2.1. Bet size: $32.16. Probability: 0.516. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $771.76
+2024-11-26 20:53:14,289 - INFO - Win! Gained: $29.87. New bankroll: $801.63
+2024-11-26 20:53:14,289 - INFO - Bet #78: Chose Variant A with odds 1.86. Bet size: $34.73. Probability: 0.578. Kelly: 0.09. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $801.63
+2024-11-26 20:53:14,289 - INFO - Lose. Lost: $20.04. New bankroll: $781.59
+2024-11-26 20:53:14,289 - INFO - Bet #79: Chose Variant C with odds 5.96. Bet size: $20.04. Probability: 0.208. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $781.59
+2024-11-26 20:53:14,289 - INFO - Lose. Lost: $27.36. New bankroll: $754.23
+2024-11-26 20:53:14,289 - INFO - Bet #80: Chose Variant A with odds 2.26. Bet size: $27.36. Probability: 0.482. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $754.23
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $26.4. New bankroll: $727.83
+2024-11-26 20:53:14,290 - INFO - Bet #81: Chose Variant B with odds 2.47. Bet size: $26.4. Probability: 0.445. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $727.83
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $29.11. New bankroll: $698.72
+2024-11-26 20:53:14,290 - INFO - Bet #82: Chose Variant A with odds 1.94. Bet size: $29.11. Probability: 0.555. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $698.72
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $20.96. New bankroll: $677.76
+2024-11-26 20:53:14,290 - INFO - Bet #83: Chose Variant B with odds 3.38. Bet size: $20.96. Probability: 0.336. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $677.76
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $27.11. New bankroll: $650.65
+2024-11-26 20:53:14,290 - INFO - Bet #84: Chose Variant A with odds 1.91. Bet size: $27.11. Probability: 0.564. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $650.65
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $16.27. New bankroll: $634.38
+2024-11-26 20:53:14,290 - INFO - Bet #85: Chose Variant C with odds 4.43. Bet size: $16.27. Probability: 0.266. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $634.38
+2024-11-26 20:53:14,290 - INFO - Win! Gained: $23.86. New bankroll: $658.23
+2024-11-26 20:53:14,290 - INFO - Bet #86: Chose Variant A with odds 1.94. Bet size: $25.38. Probability: 0.555. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $658.23
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $23.04. New bankroll: $635.19
+2024-11-26 20:53:14,290 - INFO - Bet #87: Chose Variant B with odds 2.62. Bet size: $23.04. Probability: 0.422. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $635.19
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $15.88. New bankroll: $619.31
+2024-11-26 20:53:14,290 - INFO - Bet #88: Chose Variant C with odds 4.5. Bet size: $15.88. Probability: 0.262. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $619.31
+2024-11-26 20:53:14,290 - INFO - Win! Gained: $48.45. New bankroll: $667.77
+2024-11-26 20:53:14,290 - INFO - Bet #89: Chose Variant C with odds 4.13. Bet size: $15.48. Probability: 0.282. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $667.77
+2024-11-26 20:53:14,290 - INFO - Win! Gained: $40.86. New bankroll: $708.63
+2024-11-26 20:53:14,290 - INFO - Bet #90: Chose Variant B with odds 3.04. Bet size: $20.03. Probability: 0.369. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $708.63
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $24.8. New bankroll: $683.83
+2024-11-26 20:53:14,290 - INFO - Bet #91: Chose Variant A with odds 2.13. Bet size: $24.8. Probability: 0.509. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant C. Bankroll before: $683.83
+2024-11-26 20:53:14,290 - INFO - Lose. Lost: $17.1. New bankroll: $666.73
+2024-11-26 20:53:14,291 - INFO - Bet #92: Chose Variant C with odds 4.44. Bet size: $17.1. Probability: 0.265. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $666.73
+2024-11-26 20:53:14,291 - INFO - Win! Gained: $34.0. New bankroll: $700.73
+2024-11-26 20:53:14,291 - INFO - Bet #93: Chose Variant B with odds 2.7. Bet size: $20.0. Probability: 0.41. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $700.73
+2024-11-26 20:53:14,291 - INFO - Lose. Lost: $28.03. New bankroll: $672.7
+2024-11-26 20:53:14,291 - INFO - Bet #94: Chose Variant A with odds 1.94. Bet size: $28.03. Probability: 0.555. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $672.7
+2024-11-26 20:53:14,291 - INFO - Lose. Lost: $20.18. New bankroll: $652.52
+2024-11-26 20:53:14,291 - INFO - Bet #95: Chose Variant B with odds 3.01. Bet size: $20.18. Probability: 0.372. Kelly: 0.06. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $652.52
+2024-11-26 20:53:14,291 - INFO - Lose. Lost: $16.31. New bankroll: $636.21
+2024-11-26 20:53:14,291 - INFO - Bet #96: Chose Variant C with odds 6.33. Bet size: $16.31. Probability: 0.198. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $636.21
+2024-11-26 20:53:14,291 - INFO - Win! Gained: $24.34. New bankroll: $660.54
+2024-11-26 20:53:14,291 - INFO - Bet #97: Chose Variant A with odds 1.85. Bet size: $28.63. Probability: 0.581. Kelly: 0.09. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $660.54
+2024-11-26 20:53:14,291 - INFO - Lose. Lost: $16.51. New bankroll: $644.03
+2024-11-26 20:53:14,291 - INFO - Bet #98: Chose Variant C with odds 6.1. Bet size: $16.51. Probability: 0.204. Kelly: 0.05. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $644.03
+2024-11-26 20:53:14,291 - INFO - Lose. Lost: $25.76. New bankroll: $618.27
+2024-11-26 20:53:14,291 - INFO - Bet #99: Chose Variant A with odds 1.93. Bet size: $25.76. Probability: 0.558. Kelly: 0.08. Kelly Fraction: 50.0%. Winner: Variant B. Bankroll before: $618.27
+2024-11-26 20:53:14,291 - INFO - Lose. Lost: $21.64. New bankroll: $596.63
+2024-11-26 20:53:14,291 - INFO - Bet #100: Chose Variant B with odds 2.23. Bet size: $21.64. Probability: 0.488. Kelly: 0.07. Kelly Fraction: 50.0%. Winner: Variant A. Bankroll before: $596.63
+2024-11-26 20:53:14,291 - INFO - Simulation ended. Final bankroll: $596.63
