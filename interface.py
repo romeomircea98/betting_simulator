@@ -244,10 +244,8 @@ class NewWindow(QWidget):
         Generate the matplotlib plot based on the passed data, with additional stats like
         bankroll increase and win/loss percentages.
         """
-        fig, ax = plt.subplots(2, 1, figsize=(8, 5))  # Adăugăm un sub-grafic suplimentar pentru procentajul de creștere
+        fig, ax = plt.subplots(2, 1, figsize=(8, 5))
 
-        # Plot bankroll evolution
-        # Graficele pentru bankroll
         ax[0].plot(range(len(self.bankroll_history)), self.bankroll_history, label="Bankroll", color="blue")
         ax[0].set_title("Bankroll Evolution Over Time")
         ax[0].set_xlabel("Number of Bets")
@@ -255,26 +253,26 @@ class NewWindow(QWidget):
         ax[0].grid(True)
         ax[0].legend()
 
-        # Calcularea creșterii procentuale
+        
         initial_bankroll = self.bankroll_history[0]
         final_bankroll = self.bankroll_history[-1]
         increase_percentage = ((final_bankroll - initial_bankroll) / initial_bankroll) * 100
         ax[0].text(0.14, 1.05, f"Bankroll Results: {increase_percentage:.2f}%", ha="center", va="center", transform=ax[0].transAxes)
-        # Adăugăm textul pentru bankroll-ul final
+        
         ax[0].text(0.86, 1.05, f"Final Bankroll: ${final_bankroll:.2f}", ha="center", va="center", transform=ax[0].transAxes)
 
-        # Contorizarea câștigurilor și pierderilor din results_history
-        wins = sum(self.results_history)  # Câștigurile (1)
-        losses = len(self.results_history) - wins  # Pierderile (0)
+        
+        wins = sum(self.results_history)  
+        losses = len(self.results_history) - wins  
 
-        # Grafic pentru câștiguri și pierderi
+        
         ax[1].bar(["Wins", "Losses"], [wins, losses], color=["green", "red"])
         ax[1].set_title("Wins and Losses")
         ax[1].set_xlabel("Result")
         ax[1].set_ylabel("Count")
         ax[1].grid(True)
 
-        # Calcularea procentajului de câștiguri și pierderi
+        
         total_bets = len(self.results_history)
         win_percentage = (wins / total_bets) * 100
         loss_percentage = (losses / total_bets) * 100
